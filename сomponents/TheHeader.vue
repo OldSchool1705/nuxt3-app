@@ -1,10 +1,7 @@
 <template>
   <div>
     <ul class="flex">
-      <li>111111111</li>
-      <li>111111111</li>
-      <li>111111111</li>
-      <li>111111111</li>
+      <!-- nav menu add -->
     </ul>
   </div>
 </template>

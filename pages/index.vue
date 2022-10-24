@@ -1,16 +1,14 @@
 <template>
   <div class="container mx-auto px-4">
-    <BaseContent />
     <TheHeader />
-    <BaseFooButton />
   </div>
 </template>
 
 <script lang="ts">
-// import TheHeader from "~/сomponents/TheHeader.vue";
+import TheHeader from "~/сomponents/TheHeader.vue";
 export default {
   components: {
-    // TheHeader,
+    TheHeader,
   },
   data() {
     return {
